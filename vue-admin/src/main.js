@@ -3,6 +3,8 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+//设置清除样式
+import './assets/style/reset.css'
 
 Vue.config.productionTip = false
 
